@@ -4,3 +4,8 @@
 - [x] Feature 2 - Ao tocar em leilão deve apresentar: 
     * Maior e menor lance
     * Os três maiores lances
+
+## Testes Unitários Para Realizar
+- [x] Descrição do leilão
+- [ ] Validar Maior Lance
+- [ ] Validar Menor Lance
